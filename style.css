@@ -5,14 +5,11 @@ a {
     text-decoration: none;
 }
 
-#red {
-    color: red;
+.links, h1 {
+    text-align: center;
+    margin: 1em;
 }
 
-#orange {
-    color: orange;
-}
-
-#gold {
-    color: gold;
+.link {
+    margin: 1em;
 }
